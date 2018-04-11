@@ -1,13 +1,10 @@
-package assignment1;
-
 import java.io.File;
 import java.util.Scanner;
-
 /**
  * Write the class to find the file that in a certain folder
  * 
- * @author Owner
- * @version Jan 22, 2018
+ * @author Pengliang Zhang
+ * @version Jan 22
  */
 public class TestFindPath {
 	/**
