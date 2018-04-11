@@ -1,11 +1,9 @@
-package assignment1;
-
 import java.io.File;
 /**
  *Write the class to calculate the usage a the disk that in a certain path
  *
  *@author Pengliang Zhang
- *@version Jan 22, 2018
+ *@version Jan 22
  */
 
 public class TestDiskUsage {
